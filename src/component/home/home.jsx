@@ -1,5 +1,5 @@
 import React from 'react';
-import bg from '../../assets/Background.png';
+import bg from '../../assets/background.png';
 import Card from '../Card1';
 
 export default function Home() {
