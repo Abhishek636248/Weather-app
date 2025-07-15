@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import bg from '../../assets/Background.png'; //background import kiya gya hai
+import bg from '../../assets/background.png'; //background import kiya gya hai
 import Card2 from '../Card2'; //second card laaya gya hai
 
 export default function Forcast() {

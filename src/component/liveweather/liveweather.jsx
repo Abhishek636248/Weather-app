@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import bg from '../../assets/Background.png';//background import kiya gya hai
+import bg from '../../assets/background.png';//background import kiya gya hai
 import Card from '../Card1';//card import kiya gys hai
 
 export default function Live() {
